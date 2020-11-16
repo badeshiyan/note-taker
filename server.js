@@ -4,6 +4,8 @@ var express = require("express");
 var path = require("path");
 var fs = require("fs");
 const { notStrictEqual } = require("assert");
+
+const { v4: uuidv4 } = require("uuid");
 // Sets up the Express App
 // =============================================================
 var app = express();
@@ -32,7 +34,7 @@ app.get("/api/notes", function (req, res) {
 app.post("/api/notes", function (req, res) {
   storedNotes = fs.readFileSync("./db/db.json");
   storedNotes = JSON.parse(storedNotes);
-  req.body.id = storedNotes.length;
+  req.body.id = uuidv4();
   storedNotes.push(req.body);
   storedNotes = JSON.stringify(storedNotes);
   fs.writeFileSync("./db/db.json", storedNotes);
