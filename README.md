@@ -15,10 +15,6 @@ _add overview here_
 ![Adeshiyan Team Profile Generator](./assets/teamgen3.png)
 ![Adeshiyan Team Profile Generator](./assets/teamgen4.png)
 
-## Screenshot of Application Test Results
-
-![Adeshiyan Team Profile Generator](./assets/testresults.png)
-
 ## Credits
 
 1. Node.js: https://nodejs.dev/learn/the-nodejs-fs-module
