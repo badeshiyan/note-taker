@@ -2,11 +2,14 @@
 
 ## Overview:
 
-_add overview here_
+For this unit, we continue to gain the relevant skillset(s) to create back-end web applications. Express is a web app that allows us to do just that.
+Per the instructions for this week's assignment, we were to create an application that can be used to write, save, and delete notes. Again, this application uses an express backend and saves and retrieves note data from the provided JSON file.
+
+Please find additional information regarding this project below. Thank you.
 
 ## Video of Application User Flow
 
-![Adeshiyan Note Taker Video](./assets/teamgenvid.gif)
+![Adeshiyan Note Taker Video](./public/assets/teamgenvid.gif)
 
 ## Deployed Webpage Link
 
@@ -14,16 +17,18 @@ Please find the deployed webpage link here: https://enigmatic-headland-32073.her
 
 ## Screenshots of Deployed Application
 
-![Adeshiyan Note Taker](./public/assets/notetaker1.png)
-![Adeshiyan Note Taker](./public/assets/notetaker2.png)
+![Adeshiyan Note Taker Screenshot](./public/assets/notetaker1.png)
+![Adeshiyan Note Taker Screenshot](./public/assets/notetaker2.png)
 
 ## Credits
 
 1. Node.js: https://nodejs.dev/learn/the-nodejs-fs-module
 
-2. NPM - UUID: https://www.npmjs.com/package/uuid
+2. Express: https://expressjs.com/
 
-3. MDN web docs: https://developer.mozilla.org/en-US/docs/Web/CSS
+3. NPM - UUID: https://www.npmjs.com/package/uuid
+
+4. MDN web docs: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 ## MIT License
 
