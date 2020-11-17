@@ -14,8 +14,8 @@ Please find the deployed webpage link here: https://enigmatic-headland-32073.her
 
 ## Screenshots of Deployed Application
 
-![Adeshiyan Team Profile Generator](./assets/notetaker1.png)
-![Adeshiyan Team Profile Generator](./assets/notetaker2.png)
+![Adeshiyan Note Taker](./public/assets/notetaker1.png)
+![Adeshiyan Note Taker](./public/assets/notetaker2.png)
 
 ## Credits
 
