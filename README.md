@@ -9,7 +9,7 @@ Please find additional information regarding this project below. Thank you.
 
 ## Video of Application User Flow
 
-![Adeshiyan Note Taker Video](./public/assets/teamgenvid.gif)
+![Adeshiyan Note Taker Video](./public/assets/notetakervid.gif)
 
 ## Deployed Webpage Link
 
