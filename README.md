@@ -8,12 +8,14 @@ _add overview here_
 
 ![Adeshiyan Note Taker Video](./assets/teamgenvid.gif)
 
-## Screenshots of Source Code
+## Deployed Webpage Link
 
-![Adeshiyan Team Profile Generator](./assets/teamgen1.png)
-![Adeshiyan Team Profile Generator](./assets/teamgen2.png)
-![Adeshiyan Team Profile Generator](./assets/teamgen3.png)
-![Adeshiyan Team Profile Generator](./assets/teamgen4.png)
+Please find the deployed webpage link here: https://enigmatic-headland-32073.herokuapp.com/notes
+
+## Screenshots of Deployed Application
+
+![Adeshiyan Team Profile Generator](./assets/notetaker1.png)
+![Adeshiyan Team Profile Generator](./assets/notetaker2.png)
 
 ## Credits
 
